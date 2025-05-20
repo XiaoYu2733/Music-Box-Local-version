@@ -13,5 +13,4 @@
 # QQ交流群：325031618 
 # Telegram交流群：https://t.me/XiaoYu_Chat
 
-# 此软件目前完全免费，请勿进行倒卖，非法、商业用途# Music-Box-Local-version
-Local version
+# 此软件目前完全免费，请勿进行倒卖，非法、商业用途#
