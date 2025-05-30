@@ -29,6 +29,7 @@
 
     -  随缘更新
     - [Telegram](https://xiaoyu7533) 在构建测试结束后会更新
+    - [Telegram_Chat](https://XiaoYu_Chat) 聊天群组
 
 ---  
 
